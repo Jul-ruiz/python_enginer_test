@@ -1,0 +1,16 @@
+2024-08-30 09:12:49,271:ThreadPoolExecutor-0_0:Element ID: aabbcc1
+2024-08-30 09:12:49,271:ThreadPoolExecutor-0_0:Average before normalization: 51.13333333333333
+2024-08-30 09:12:49,271:ThreadPoolExecutor-0_1:Element ID: aabbcc2
+2024-08-30 09:12:49,271:ThreadPoolExecutor-0_0:Average after normalization: 0.5326388888888889
+2024-08-30 09:12:49,271:ThreadPoolExecutor-0_1:Average before normalization: 52.7
+2024-08-30 09:12:49,271:ThreadPoolExecutor-0_0:Data size: 30
+2024-08-30 09:12:49,271:ThreadPoolExecutor-0_1:Average after normalization: 0.5489583333333333
+2024-08-30 09:12:49,271:ThreadPoolExecutor-0_1:Data size: 30
+2024-08-30 16:53:01,830:ThreadPoolExecutor-0_0:Element ID: aabbcc1
+2024-08-30 16:53:01,831:ThreadPoolExecutor-0_1:Element ID: aabbcc2
+2024-08-30 16:53:01,831:ThreadPoolExecutor-0_0:Average before normalization: 51.13333333333333
+2024-08-30 16:53:01,831:ThreadPoolExecutor-0_1:Average before normalization: 52.7
+2024-08-30 16:53:01,831:ThreadPoolExecutor-0_0:Average after normalization: 0.5326388888888889
+2024-08-30 16:53:01,832:ThreadPoolExecutor-0_1:Average after normalization: 0.5489583333333333
+2024-08-30 16:53:01,832:ThreadPoolExecutor-0_0:Data size: 30
+2024-08-30 16:53:01,832:ThreadPoolExecutor-0_1:Data size: 30

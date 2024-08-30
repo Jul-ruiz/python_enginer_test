@@ -1,0 +1,11 @@
+2024-08-27 10:27:03,702 - Diagnosis updated from None to Healthy
+2024-08-27 10:29:56,598 - Diagnosis updated from None to Healthy
+2024-08-27 10:42:48,108 - INFO - Diagnosis updated for patient ID 12345: 'None' to 'Hypertension'
+2024-08-27 10:42:48,108 - INFO - Diagnosis updated for patient ID 12345: 'Hypertension' to 'Diabetes Type II'
+2024-08-27 10:51:28,009 - INFO - Diagnosis updated for patient ID 12345: 'None' to 'Hypertension'
+2024-08-27 10:51:28,009 - INFO - Diagnosis updated for patient ID 12345: 'Hypertension' to 'Diabetes Type II'
+2024-08-27 10:52:48,992 - INFO - Diagnosis updated for patient ID 12345: 'None' to 'Hypertension'
+2024-08-27 10:52:48,994 - INFO - Diagnosis updated for patient ID 12345: 'Hypertension' to 'Diabetes Type II'
+2024-08-27 11:17:26,576 - INFO - Study details loaded from DICOM file: C:\Users\1\Documents\anyoneai\Test_python\prueba_python\sample-02-dicom.dcm
+2024-08-27 11:32:31,629 - INFO - Study details loaded from DICOM file: C:\Users\1\Documents\anyoneai\Test_python\prueba_python\sample-02-dicom.dcm
+2024-08-27 11:35:36,339 - INFO - Study details loaded from DICOM file: C:\Users\1\Documents\anyoneai\Test_python\prueba_python\sample-02-dicom.dcm
